@@ -62,3 +62,11 @@ Please update the resident’s meal preference from the effective date.
 - Important resident details are presented consistently.
 - The tone is more professional and suitable for staff communication.
 - However, the prompt still does not include strong safety instructions about avoiding assumptions or handling missing information.
+- ## Test 3 – Final Version Output
+- ## Final Evaluation
+
+- The final version produced a clearer and more controlled response.
+- It used only the information provided.
+- It reduced the risk of invented medical, allergy, or dietary information.
+- It included clear instructions for handling missing information.
+- Compared with Versions 1 and 2, this version is more suitable for responsible use in an aged-care administration setting.
