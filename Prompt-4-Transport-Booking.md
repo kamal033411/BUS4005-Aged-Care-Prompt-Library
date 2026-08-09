@@ -40,3 +40,21 @@ Version 1 was too general and did not provide enough information for a transport
 Version 2 added the important booking details.
 
 The final version added a clear aged-care role, structured information requirements, privacy controls, and instructions for handling missing information.
+## Test 1 – Version 1 Output
+
+Transport Booking Request
+
+Resident: Robert Taylor  
+Appointment date: 18 August 2026  
+Appointment time: 11:00 am  
+Destination: Local dental clinic  
+Required pickup time: 10:15 am  
+Return transport: Required after appointment
+
+Please arrange transport for the resident according to the above appointment details.
+## Issues Identified in Version 1
+
+- The prompt was very general and did not specify a required structure.
+- It did not tell the AI which transport details were essential.
+- It did not prevent the AI from assuming mobility or medical requirements.
+- It did not explain how to handle missing booking information.
