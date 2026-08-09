@@ -47,3 +47,10 @@ Effective date: 12 August 2026
 Notes: Resident prefers softer vegetables.
 
 Please update the resident’s meal preference from the effective date.
+
+## Issues Identified in Version 1
+
+- The prompt was too general and did not define a clear output structure.
+- It did not explicitly instruct the AI to use only the information provided.
+- It did not include any safety instruction about avoiding assumptions related to allergies, medical conditions, or dietary restrictions.
+- It did not explain what to do if important information was missing.
