@@ -54,3 +54,11 @@ Please update the resident’s meal preference from the effective date.
 - It did not explicitly instruct the AI to use only the information provided.
 - It did not include any safety instruction about avoiding assumptions related to allergies, medical conditions, or dietary restrictions.
 - It did not explain what to do if important information was missing.
+
+- ## Test 2 – Version 2 Output
+- ## Improvements Seen in Version 2
+
+- The output is clearer and more structured than Version 1.
+- Important resident details are presented consistently.
+- The tone is more professional and suitable for staff communication.
+- However, the prompt still does not include strong safety instructions about avoiding assumptions or handling missing information.
