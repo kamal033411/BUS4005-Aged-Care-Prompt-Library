@@ -41,3 +41,28 @@ Version 1 was too general and did not specify the information needed.
 Version 2 added the main meeting details and purpose.
 
 The final version added aged-care context, privacy controls, a clear communication structure, and instructions for handling missing information.
+## Test 1 – Version 1 Output
+## Issues Identified in Version 1
+
+- The prompt was very general and did not specify the tone or format of the invitation.
+- It did not clearly identify which meeting details must be included.
+- It did not include privacy controls for sensitive resident information.
+- It did not tell the AI to avoid assuming medical or clinical information.
+- It did not explain how missing meeting information should be handled.
+- ## Test 2 – Version 2 Output
+- ## Improvements Seen in Version 2
+
+- The invitation is clearer and more professionally structured than Version 1.
+- Important meeting details are presented in an easy-to-read format.
+- The tone is more appropriate for communication with a resident’s family.
+- However, the prompt still does not provide clear privacy controls.
+- It does not explain how the AI should respond if important meeting information is missing.
+- ## Test 3 – Final Version Output
+- ## Final Evaluation
+
+- The final version produced a clear, warm, and professional invitation.
+- It used only the information provided.
+- It avoided adding medical, clinical, or unnecessary private information.
+- It included all important meeting details in a structured format.
+- It also provided instructions for handling missing information through staff confirmation.
+- Compared with Versions 1 and 2, the final version is more suitable for responsible use in an aged-care administration setting.
