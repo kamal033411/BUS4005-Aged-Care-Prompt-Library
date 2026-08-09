@@ -58,3 +58,19 @@ Please arrange transport for the resident according to the above appointment det
 - It did not tell the AI which transport details were essential.
 - It did not prevent the AI from assuming mobility or medical requirements.
 - It did not explain how to handle missing booking information.
+- ## Test 2 – Version 2 Output
+- ## Improvements Seen in Version 2
+
+- The output is clearer and more professionally structured than Version 1.
+- The important appointment and transport details are easy to identify.
+- The request is easier for staff to process.
+- However, the prompt still does not prevent assumptions about medical or mobility requirements.
+- It does not explain what the AI should do if important booking information is missing.
+- ## Test 3 – Final Version Output
+- ## Final Evaluation
+
+- The final version produced the clearest and most controlled transport request.
+- It used only the information provided and did not assume any medical, mobility, or clinical requirements.
+- It clearly presented all important booking details in a structured format.
+- It also handled missing information appropriately by not inventing additional instructions.
+- Compared with Versions 1 and 2, the final version is more suitable for responsible use in an aged-care administration setting.
