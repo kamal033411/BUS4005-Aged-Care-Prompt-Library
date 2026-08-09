@@ -35,3 +35,15 @@ Version 1 was too general and did not specify what information should be include
 Version 2 added clearer instructions and required resident details.
 
 The final version added a professional role, structured output requirements, and safety controls to reduce the risk of invented medical or dietary information.
+
+## Test 1 – Version 1 Output
+
+Staff Note – Meal Preference Update
+
+Resident: Mary Wilson  
+Previous meal preference: Regular meals  
+New meal preference: Vegetarian meals  
+Effective date: 12 August 2026  
+Notes: Resident prefers softer vegetables.
+
+Please update the resident’s meal preference from the effective date.
