@@ -51,3 +51,11 @@ We look forward to celebrating this special occasion together.
 - It did not clearly state which celebration details must be included.
 - It did not include privacy controls or guidance about unnecessary resident information.
 - It did not explain what should happen if event information is incomplete.
+- ## Test 2 – Final Version Output
+- We are pleased to celebrate Margaret Lee’s birthday with an afternoon of tea and music.
+Date: 20 August 2026
+Time: 3:00 pm
+Location: Main Lounge
+Activity: Afternoon tea and music
+Please arrive a few minutes early.
+We look forward to celebrating this special occasion together.
