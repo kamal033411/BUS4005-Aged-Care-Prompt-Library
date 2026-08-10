@@ -59,3 +59,17 @@ Location: Main Lounge
 Activity: Afternoon tea and music
 Please arrive a few minutes early.
 We look forward to celebrating this special occasion together.
+## Final Version Evaluation
+
+- The final prompt produced a warm, clear and professional birthday celebration notice.
+- It used only the information provided and avoided unnecessary private, medical or clinical information.
+- The required fields improved consistency and ensured that important event details were included.
+- The missing-information instruction provided a safeguard against incomplete communication.
+- Human staff review remains necessary before the notice is distributed.
+- ## Audit Log
+
+| Version | Change Made | Observed Effect | Lesson Learned |
+|---|---|---|---|
+| Version 1 | Used a basic birthday notice instruction with limited guidance. | The output was clear but the prompt did not control tone, privacy or missing information. | More context and explicit requirements were needed. |
+| Version 2 | Added required celebration details and a clearer professional tone. | The output became more structured and consistent. | Specifying required fields improves communication quality. |
+| Final Version | Added aged-care context, privacy controls, use-only-provided-information instructions and missing-information handling. | The output became more controlled and suitable for responsible aged-care communication. | Context, constraints and human review improve reliability and reduce risk. |
