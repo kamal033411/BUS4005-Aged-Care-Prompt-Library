@@ -44,3 +44,32 @@ The final version added aged-care context, privacy controls, structured informat
 - It did not clearly control which resident information should be included.
 - It did not include privacy safeguards.
 - It did not explain how missing visit information should be handled.
+- ## Test 2 – Final Version Output
+- Visitor Reminder
+
+Dear Sarah Parker,
+
+This is a friendly reminder about your upcoming visit with John Parker.
+
+Date: 16 August 2026
+Time: 2:30 pm
+
+Please check in at reception on arrival.
+
+Kind regards,
+Aged-Care Administration Team
+## Final Version Evaluation
+
+- The final prompt produced a clear and professional family reminder.
+- It used only the information provided and avoided unnecessary resident details.
+- Privacy controls reduced the risk of including medical, clinical or unrelated private information.
+- The required fields improved consistency and made the output easy to review.
+- Missing-information instructions provide an additional safeguard before the message is used.
+- Human staff review remains necessary before sending the final communication.
+- ## Audit Log
+
+| Version | Change Made | Observed Effect | Lesson Learned |
+|---|---|---|---|
+| Version 1 | Used a basic reminder instruction with minimal guidance. | The output was understandable but the prompt did not control tone, privacy or missing information. | More context and safeguards were required. |
+| Version 2 | Added resident and visit details, professional tone and clearer content requirements. | The output became more structured and suitable for family communication. | Explicit required fields improve consistency. |
+| Final Version | Added aged-care context, use-only-provided-information rule, privacy constraints and missing-information handling. | The output remained professional while providing stronger control over sensitive information. | Context, constraints and human confirmation improve responsible AI use. |
