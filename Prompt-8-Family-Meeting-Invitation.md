@@ -66,3 +66,10 @@ The final version added aged-care context, privacy controls, a clear communicati
 - It included all important meeting details in a structured format.
 - It also provided instructions for handling missing information through staff confirmation.
 - Compared with Versions 1 and 2, the final version is more suitable for responsible use in an aged-care administration setting.
+- ## Audit Log
+
+| Version | Change Made | Observed Effect | Lesson Learned |
+|---|---|---|---|
+| Version 1 | Used a basic invitation request with minimal guidance. | The output was understandable but did not clearly control tone, privacy, or missing information. | The prompt needed clearer structure and stronger context. |
+| Version 2 | Added required meeting details and a more professional communication style. | The invitation became clearer and more suitable for family communication. | Specifying required fields improves consistency and readability. |
+| Final Version | Added an aged-care administration role, privacy controls, use-only-provided-information instructions and missing-information handling. | The output became more controlled, professional and safer for use with resident information. | Clear constraints and human confirmation are important when AI supports sensitive family communication. |
