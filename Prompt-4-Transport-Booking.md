@@ -74,3 +74,10 @@ Please arrange transport for the resident according to the above appointment det
 - It clearly presented all important booking details in a structured format.
 - It also handled missing information appropriately by not inventing additional instructions.
 - Compared with Versions 1 and 2, the final version is more suitable for responsible use in an aged-care administration setting.
+- ## Audit Log
+
+| Version | Change Made | Observed Effect | Lesson Learned |
+|---|---|---|---|
+| Version 1 | Used a basic transport request with minimal guidance. | The output included the main booking details but had limited structure and no safety controls. | The prompt needed clearer required fields and stronger instructions. |
+| Version 2 | Added appointment date, time, destination, pickup time and a more professional tone. | The output became easier for staff to read and process. | Specifying required details improves consistency and reduces missing information. |
+| Final Version | Added an aged-care administration role, use-only-provided-information rule, privacy controls and missing-information handling. | The output became more controlled and avoided assumptions about medical or mobility needs. | Constraints and human confirmation make the prompt safer for operational use. |
