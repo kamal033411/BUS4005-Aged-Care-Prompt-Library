@@ -37,3 +37,10 @@ Version 1 was too broad and did not specify what information the reminder should
 Version 2 added important visit details and a clear tone.
 
 The final version added aged-care context, privacy controls, structured information requirements, and instructions for handling missing information.
+## Test 1 – Version 1 Output
+## Issues Identified in Version 1
+
+- The prompt was very general and did not specify the required structure or tone.
+- It did not clearly control which resident information should be included.
+- It did not include privacy safeguards.
+- It did not explain how missing visit information should be handled.
