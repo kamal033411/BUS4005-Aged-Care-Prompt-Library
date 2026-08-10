@@ -44,20 +44,7 @@ The final version added aged-care context, privacy controls, structured informat
 - It did not clearly control which resident information should be included.
 - It did not include privacy safeguards.
 - It did not explain how missing visit information should be handled.
-- ## Test 2 – Final Version Output
-- Visitor Reminder
-
-Dear Sarah Parker,
-
-This is a friendly reminder about your upcoming visit with John Parker.
-
-Date: 16 August 2026
-Time: 2:30 pm
-
-Please check in at reception on arrival.
-
-Kind regards,
-Aged-Care Administration Team
+- 
 ## Final Version Evaluation
 
 - The final prompt produced a clear and professional family reminder.
