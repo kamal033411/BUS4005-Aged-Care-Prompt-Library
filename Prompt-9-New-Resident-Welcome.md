@@ -36,3 +36,58 @@ Version 1 was too general and did not specify what information should be include
 Version 2 added the main arrival details.
 
 The final version added aged-care context, a clearer structure, privacy controls, and instructions for missing information.
+## Test 1 – Version 1 Output
+
+Welcome to Our Aged-Care Facility
+
+Dear Patricia Green,
+
+We are pleased to welcome you to our facility.
+
+Move-in Date: 30 August 2026  
+Room: 18  
+
+Please report to reception on arrival. The front desk team will assist you with your arrival and orientation.
+
+We hope you feel comfortable and welcome in your new home.
+
+## Issues Identified in Version 1
+
+- The prompt did not clearly control the tone or required content.
+- It did not include privacy safeguards.
+- It did not prevent the AI from adding assumptions about the resident's needs or circumstances.
+- It did not specify how missing arrival information should be handled.
+
+## Test 2 – Final Version Output
+
+Welcome Message
+
+Dear Patricia Green,
+
+Welcome to the aged-care facility. We are pleased to have you joining us.
+
+Move-in Date: 30 August 2026  
+Room Number: 18  
+Arrival Information: Please report to reception on arrival.  
+Contact Point: Front desk
+
+We look forward to welcoming you and supporting a smooth arrival.
+
+Kind regards,  
+Aged-Care Administration Team
+
+## Final Version Evaluation
+
+- The final prompt produced a warm and professional welcome message.
+- It used only the supplied information.
+- It avoided making medical, personal or care-related assumptions about the new resident.
+- The required arrival and contact information improved practical usefulness.
+- Human review allows staff to personalise the final communication appropriately.
+
+## Audit Log
+
+| Version | Change Made | Observed Effect | Lesson Learned |
+|---|---|---|---|
+| Version 1 | Used a basic welcome-message instruction. | The output was friendly but the prompt provided limited control over content. | More context and required information were needed. |
+| Version 2 | Added move-in date, room number and arrival details. | The output became more practical and structured. | Clear fields improve onboarding communication. |
+| Final Version | Added aged-care context, privacy controls, no-assumption rules and missing-information handling. | The output became more controlled while retaining a welcoming tone. | Personalisation should be balanced with privacy and human review. |
