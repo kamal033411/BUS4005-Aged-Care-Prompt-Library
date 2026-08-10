@@ -70,3 +70,10 @@ Please update the resident’s meal preference from the effective date.
 - It reduced the risk of invented medical, allergy, or dietary information.
 - It included clear instructions for handling missing information.
 - Compared with Versions 1 and 2, this version is more suitable for responsible use in an aged-care administration setting.
+- ## Audit Log
+
+| Version | Change Made | Observed Effect | Lesson Learned |
+|---|---|---|---|
+| Version 1 | Used a basic instruction with no detailed structure or safety controls. | The output was understandable but too general and relied heavily on the information entered by the user. | The prompt needed clearer context, required fields and stronger constraints. |
+| Version 2 | Added required resident details, clearer task instructions and professional tone. | The output became more structured and easier for staff to read. | Explicit information requirements improve consistency. |
+| Final Version | Added an aged-care administration role, privacy controls, restrictions on medical assumptions and missing-information handling. | The output became clearer, safer and more suitable for real administrative use. | Role, context and constraints improve reliability while human review remains necessary. |
