@@ -36,3 +36,18 @@ Version 1 was too general and did not specify the information needed.
 Version 2 added the main event details and a clearer tone.
 
 The final version added aged-care context, privacy controls, structured information requirements, and instructions for missing information.
+## Test 1 – Version 1 Output
+
+We are pleased to invite you to celebrate Margaret Lee’s birthday with us.
+Date: 20 August 2026
+Time: 3:00 pm
+Location: Main Lounge
+Activity: Afternoon tea and music
+Please arrive a few minutes early.
+We look forward to celebrating this special occasion together.
+## Issues Identified in Version 1
+
+- The prompt was very general and did not define the desired tone or structure.
+- It did not clearly state which celebration details must be included.
+- It did not include privacy controls or guidance about unnecessary resident information.
+- It did not explain what should happen if event information is incomplete.
